@@ -1,0 +1,45 @@
+/* Estilo da pagina index.html */
+.center {
+
+    text-aling: center;
+}
+
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    aling-itens:center;
+
+}
+
+#menu li {
+    display: inline;
+    padding: 100px;
+    
+}
+
+#menu li a: {
+    text-decoration: none;
+    color: black; 
+    font-size: 30px;
+}
+/* Estilo da pagina index.html nao ta funcionando  cor tbm os dois li*/
+#menu li a: hover {
+    
+    color: gray; 
+}
+
+.p-30{
+    padding: 30px;
+}
+
+//nao esta funcionando  //
+/* Estilo da pagina contato.html */
+.br-50{
+    border-radius: 50%;
+}
+
+.wh-300{
+    width: 500px;
+    height: 500px;
+}
